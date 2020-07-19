@@ -1,0 +1,44 @@
+.contur {
+  width: 150px;
+  height: 450px;
+  border: 1px solid black;
+  background-color: cadetblue;
+  position: relative;
+  top: 20px;
+  left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.red {
+  width: 120px;
+  height: 120px;
+  background-color: red;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.yellow {
+  width: 120px;
+  height: 120px;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.green {
+  width: 120px;
+  height: 120px;
+  background-color: green;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.stolb {
+  width: 30px;
+  height: 450px;
+  border: 1px solid black;
+  background-color: rgb(65, 114, 116);
+  /* position: absolute; */
+  top: 20px;
+  left: 30px;
+  justify-self: self-start;
+}
